@@ -1,6 +1,6 @@
 CREATE TABLE observations (
     ID SERIAL PRIMARY KEY,
-    SiteID INT,
+    SiteID CHARACTER VARYING,
     ObservationTimeUTC TIMESTAMP,
     Value FLOAT
 );

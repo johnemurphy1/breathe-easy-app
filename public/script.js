@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 x: {
                     type: 'time',
                     time: {
-                        unit: 'minute'
+                        unit: 'hour'
                     }
                 },
                 y: {
