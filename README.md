@@ -3,6 +3,8 @@ This is the 2023-2024 BASE senior Data Design App development project.
 
 The example project is here https://breathe-easy-app-test.onrender.com
 
+![alt text](image.png)
+
 Data was sourced from the NYCOpenData:
 https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r/about_data
 
@@ -20,3 +22,5 @@ Technology used:
 * PostgreSQL
 
 To start the project, you'll need a web-service and PostgreSQL database server and run node server.js.
+
+Instructions on how to set up the database with pgadmin are here: https://docs.google.com/document/d/16JqAahguG0v4fBVIKik9hpVZGbymY985X3TAe-Z2CKo/edit
